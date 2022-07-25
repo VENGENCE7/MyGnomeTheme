@@ -1,9 +1,21 @@
 <div id="top"></div>
 
-# MyGnomeTheme
-Started with top panel only but will eventually create it for whole system
+<!-- PROJECT SHIELDS -->
+<!--
+-->
+
+[![Contributors][contributors-shield]][contributors-url]
+[![Forks][forks-shield]][forks-url]
+[![Stargazers][stars-shield]][stars-url]
+[![Issues][issues-shield]][issues-url]
+[![MIT License][license-shield]][license-url]
+[![LinkedIn][linkedin-shield]][linkedin-url]
 
 <div align=center><img src="https://user-images.githubusercontent.com/86911386/180775272-fbc231f8-5f5d-437a-8ea8-50de7d0841e5.png" height=200 width=200 ></div>
+
+
+# MyGnomeTheme
+Started with top panel only but will eventually create it for whole system.
 
 <!-- TABLE OF CONTENTS -->
 <details>
@@ -116,3 +128,25 @@ To apply your new theme, go to the **_Appearance_** section in **_Tweaks_**.Here
 + Go to **Shell** and choose `MyGnomeTheme`
 
  <p align="right">(<a href="#top">Back to top</a>)</p>
+ 
+ 
+<!-- MARKDOWN LINKS & IMAGES -->
+<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
+[contributors-shield]: https://img.shields.io/github/contributors/VENGENCE7/MyGnomeTheme.svg?style=for-the-badge
+[contributors-url]: https://github.com/VENGENCE7/MyGnomeTheme/graphs/contributors
+
+[forks-shield]: https://img.shields.io/github/forks/VENGENCE7/MyGnomeTheme.svg?style=for-the-badge
+[forks-url]: https://github.com/VENGENCE7/MyGnomeTheme/network/members
+
+[stars-shield]: https://img.shields.io/github/stars/VENGENCE7/MyGnomeTheme.svg?style=for-the-badge
+[stars-url]: https://github.com/VENGENCE7/MyGnomeTheme/stargazers
+
+[issues-shield]: https://img.shields.io/github/issues/VENGENCE7/MyGnomeTheme.svg?style=for-the-badge
+[issues-url]: https://github.com/VENGENCE7/MyGnomeTheme/issues
+
+[license-shield]: https://img.shields.io/github/license/VENGENCE7/MyGnomeTheme.svg?style=for-the-badge
+[license-url]: https://github.com/VENGENCE7/MyGnomeTheme/blob/master/LICENSE.txt
+
+
+[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
+[linkedin-url]: https://linkedin.com/in/bhavish-anand-2113a6206
