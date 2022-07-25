@@ -145,7 +145,7 @@ To apply your new theme, go to the **_Appearance_** section in **_Tweaks_**.Here
 [issues-url]: https://github.com/VENGENCE7/MyGnomeTheme/issues
 
 [license-shield]: https://img.shields.io/github/license/VENGENCE7/MyGnomeTheme.svg?style=for-the-badge
-[license-url]: https://github.com/VENGENCE7/MyGnomeTheme/blob/master/LICENSE.txt
+[license-url]: https://github.com/VENGENCE7/MyGnomeTheme/blob/main/LICENSE
 
 
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
